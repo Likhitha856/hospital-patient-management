@@ -141,7 +141,7 @@ http://localhost:5173
 
 ---
 
-## 🧠 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint       | Description        |
 | ------ | -------------- | ------------------ |
@@ -153,7 +153,7 @@ http://localhost:5173
 
 ---
 
-## 📌 Patient Fields
+## Patient Fields
 
 Main Details:
 
@@ -177,7 +177,7 @@ Optional:
 
 ---
 
-## 🎯 Highlights
+##  Highlights
 
 - Fully responsive UI
 - Real-time state updates
@@ -188,7 +188,7 @@ Optional:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Likhitha Sanjana**
 Full Stack Developer
